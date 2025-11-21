@@ -1,0 +1,5 @@
+{
+  "name": "FreeFoil Converter",
+  "description": "Real-time airfoil visualization and CAD converter tool. Upload .dat files, adjust chord/thickness, and export to CSV/DXF.",
+  "requestFramePermissions": []
+}
